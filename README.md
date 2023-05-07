@@ -27,6 +27,7 @@ The purpose of this analysis is to create a binary classifier that is capable of
 		![attempt2_nodes](Output/attempt2_nodes.png)
 	    ![attempt2_accuracy](Output/attempt2_accuracy.png)
 	    - Finally, I changed the activation function in the output layer from sigmoid to relu as well. Again, there was little to no change in the accuracy
+	
  		![attempt3_activation](Output/attempt3_activation.png)
 	    ![attempt3_accuracy](Output/attempt3_accuracy.png)
 
